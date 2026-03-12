@@ -21,7 +21,7 @@ public class MissoesModel {
 
     private String nome;
 
-    @Column(unique = true)
+
     private String dificuldade;
 
     //@OneToMany uma missão pode ter vários ninjas;
